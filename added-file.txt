@@ -1,2 +1,4 @@
 Added file to show merge conflict
 Modified on merge-conflict-activity branch
+Modified on merge-conflict-activity-2 branch
+Resolved merge conflicts
